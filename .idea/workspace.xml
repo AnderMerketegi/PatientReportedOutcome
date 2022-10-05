@@ -1,48 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ee27929-75d0-41ea-853b-0b3df392deef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pdf2txt/summarization.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PatientReportedOutcome.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="56528402-3331-42f7-87b8-868f17242e82" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pdf2txt/pdf2txt.py" beforeDir="false" afterPath="$PROJECT_DIR$/pdf2txt/pdf2txt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf2txt/summarization.py" beforeDir="false" afterPath="$PROJECT_DIR$/pdf2txt/summarization.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pdf2txt/summarization.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Fg01FDv2uJggiLIDSvkVPNmh6E" />
+  <component name="ProjectId" id="2FhpePOiePIMrMEO8c7SOwpod2R" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pdf2txt/summarization.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pdf2txt/pdf2txt.py" />
   </component>
-  <component name="RunManager" selected="Python.summarization">
+  <component name="RunManager" selected="Python.pdf2txt">
     <configuration name="pdf2txt" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PatientReportedOutcome" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -50,9 +39,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\Ander Merketegi\AppData\Local\Programs\Python\Python39\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pdf2txt" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pdf2txt/pdf2txt.py" />
@@ -86,30 +75,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.pdf2txt" />
       <item itemvalue="Python.summarization" />
+      <item itemvalue="Python.pdf2txt" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8ee27929-75d0-41ea-853b-0b3df392deef" name="Changes" comment="" />
-      <created>1664898207368</created>
+      <changelist id="56528402-3331-42f7-87b8-868f17242e82" name="Changes" comment="" />
+      <created>1664954267242</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1664898207368</updated>
+      <updated>1664954267242</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
