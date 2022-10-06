@@ -75,11 +75,11 @@ def summarize(t, n):
     return selected_sentences
 
 
-####################### --------- MAIN ------- #######################
+#################### ---------- MAIN ---------- ####################
 
 
 # define data path
-data_path = "D:/GitHub/PatientReportedOutcome/data/pdf_txt/"
+data_path = "D:/GitHub/PatientReportedOutcome/data_sample/pdf_txt/"
 
 # get and store txt file
 file = [data_path + f for f in [f for f in os.listdir(data_path) if f.endswith("txt")]][0]
