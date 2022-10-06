@@ -37,6 +37,7 @@ def pdf2txt(file, tool):
     return text, len(text.split())
 
 
+# define function to convert all documents in file, making use of specified tool and saving the text file in output file
 def convert_documents(tool, path, output_path):
     # check if output_path exists - if not, create path
     if not os.path.exists(output_path):
