@@ -22,7 +22,6 @@ def pdf2txt(file, tool):
             for page in pdf.pages:
                 text += page.extractText()
 
-
         # working best for now
         elif tool == "pdfminer":
             text = extract_text(file, 'rb')
