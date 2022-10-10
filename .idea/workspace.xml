@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56528402-3331-42f7-87b8-868f17242e82" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/PatientReportedOutcome.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PatientReportedOutcome.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pdf_img/0509 Alvarez-Lister.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pdf_img/1520_Maier.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pdf_txt/2071_Conde-Sala.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pdf_txt/TXT/2071_Conde-Sala_pdfminer.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pdf2txt/pdf2txt.py" beforeDir="false" afterPath="$PROJECT_DIR$/pdf2txt/pdf2txt.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,9 +48,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/utils/append_df.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.append_df">
+  <component name="RunManager" selected="Python.pdf2txt">
     <configuration name="append_df" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PatientReportedOutcome" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,6 +86,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pdf2txt/pdf2txt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pubmed_downloader" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PatientReportedOutcome" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Ander Merketegi\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/pubmed_downloader.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,10 +158,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.summarization" />
-      <item itemvalue="Python.pdf2txt" />
       <item itemvalue="Python.append_df" />
+      <item itemvalue="Python.pdf2txt" />
+      <item itemvalue="Python.pubmed_downloader" />
       <item itemvalue="Python.questionnaire_checking" />
+      <item itemvalue="Python.summarization" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

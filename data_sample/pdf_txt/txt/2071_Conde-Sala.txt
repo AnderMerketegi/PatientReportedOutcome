@@ -1,0 +1,1846 @@
+Journal of Alzheimer’s Disease 33 (2013) 1105–1116
+DOI 10.3233/JAD-2012-121360
+IOS Press
+
+1105
+
+Clinical Differences in Patients with
+Alzheimer’s Disease According to the
+Presence or Absence of Anosognosia:
+Implications for Perceived Quality of Life
+
+Josep L. Conde-Salaa,∗, Ram´on Re˜n´e-Ram´ırezb, Oriol Turr´o-Garrigac,d, Jordi Gasc´on-Bayarrib,
+Montserrat Juncadella-Puigb, Laura Moreno-Cord´onb, Vanesa Vi˜nas-Diezb and Josep Garre-Olmoc,e
+aFaculty of Psychology, University of Barcelona, Barcelona, Spain
+bDementia Unit, Department of Neurology, Bellvitge University Hospital, Hospitalet de Llobregat, Spain
+cResearch Unit, Santa Caterina Hospital, Institut d’Assist`encia Sanit`aria, Salt, Spain
+dDepartment of Psychiatry and Forensic Medicine, Autonomous University of Barcelona, Bellaterra, Spain
+eDepartment of Psychology, University of Girona, Girona, Spain
+
+Handling Associate Editor: Ramon Luengo-Fernandez
+
+Accepted 2 October 2012
+
+Abstract.This study aimed to determine the factors that predict anosognosia in patients with Alzheimer’s disease (AD) and
+to examine the effect of anosognosia on patient and caregiver perceptions of the patient’s quality of life (QoL-p), using a
+cross-sectional design with 164 patients and their caregivers. Instruments of measurement included Anosognosia Questionnaire-
+Dementia, Geriatric Depression Scale, Quality of Life in AD (QoL-AD), Disability Assessment for Dementia, Neuropsychiatric
+Inventory, and the Global Deterioration Scale (GDS). A binary logistic regression analysis was performed to identify the factors
+that predict anosognosia, while a linear regression analysis was conducted to determine the factors associated with QoL-AD.
+The degree of anosognosia increased in line with GDS stage (F (2,161) = 41.3, p < 0.001). In the binary regression analysis, the
+variables that predicted anosognosia were more neuropsychiatric symptoms (OR = 1.11, 95% CI: 1.06–1.17, p < 0.001), deﬁcits
+in ADL (OR = 0.88, 95% CI: 0.83–0.94, p < 0.001), less depression (OR = 0.66, 95% CI: 0.54–0.82, p < 0.001), and older age
+(OR = 1.08, 95% CI: 1.00–1.15, p = 0.027). With regards to QoL-p, the multiple linear regression analysis for patients (r2 = 0.486)
+showed that less depression ((cid:1) = −0.52, p < 0.001) and greater anosognosia ((cid:1) = 0.40, p < 0.001) explained 33% and 10% of
+the variance in QoL-AD, respectively. Greater anosognosia was associated with better perceived QoL-p, especially in advanced
+GDS stages. Anosognosia was associated with greater caregiver burden and a greater discrepancy between patient and caregiver
+ratings of QoL-p.
+
+Keywords: Alzheimer’s disease, anosognosia, awareness, caregivers, depression, neuropsychiatry, patients, quality of life
+
+Supplementary data available online: http://dx.doi.org/10.3233/JAD-2012-121360
+
+INTRODUCTION
+
+∗Correspondence to: Josep Llu´ıs Conde-Sala, University of
+Barcelona, Passeig Vall d’Hebron, 171, 08035 Barcelona, Spain.
+Tel.: +34 93 312 5814; Fax: +34 93 402 1368; E-mail: jllconde@
+ub.edu.
+
+The concept of anosognosia refers to a lack of aware-
+ness regarding the difﬁculties or deﬁcits associated
+with an illness, and it has long been recognized as
+an important feature of Alzheimer’s disease (AD) [1].
+
+ISSN 1387-2877/13/$27.50 © 2013 – IOS Press and the authors. All rights reserved
+
+1106
+
+J.L. Conde-Sala et al. / Anosognosia and Quality of Life
+
+Speciﬁcally, the person with AD may show a lack of
+awareness regarding impairments related to activities
+of daily living (ADL) [2] or their neuropsychological
+deﬁcits, especially memory [3, 4]. Anosognosia can
+have important implications as patients underestimate
+their limitations in relation to quality of life [5–7] and
+are more prone to engage in dangerous behaviors [8].
+It can also lead to increased caregiver burden [9].
+
+Estimates of the prevalence of anosognosia in AD
+vary widely between 20% [10] and 80% [11] and
+illustrates the enormous complexity and heterogene-
+ity of the condition [12–15]. A key contributor to
+this variability is the wide range of methods used to
+measure anosognosia, which include the use of ques-
+tionnaires to compare patient and caregiver ratings
+[10], the clinical judgment of professionals in relation
+to an anosognosia scale [11], and the administration of
+neuropsychological tests [3].
+
+One key question is whether anosognosia forms part
+of the general characteristics of the disease process or
+whether it is a speciﬁc syndrome that is more common
+in certain patients. Although the majority of studies
+consider that anosognosia increases in line with the
+severity of dementia [4, 15–20], this is not always the
+case [21–23]. A similar discrepancy has been observed
+in relation to scores on the Mini-Mental State Exam-
+ination (MMSE), which some studies have found to
+be negatively correlated with anosognosia [3, 10, 18],
+while others have failed to conﬁrm such a relationship
+[21, 22, 24].
+
+With regards to the hypothesis of speciﬁcity in
+relation to anosognosia, various studies have associ-
+ated it with speciﬁc neurological changes, such as
+an increased density of amyloid plaques in the pro-
+subiculum [25], or with frontal lobe dysfunction and
+the related behavioral problems [21, 24, 26–29]. From
+this perspective, anosognosia would be a more com-
+mon symptom of frontotemporal dementia than of AD
+[30].
+
+These two domains of anosognosia, that is, related
+to cognitive deﬁcits and to behavioral problems,
+were analyzed by Starkstein et al. [31], who con-
+sidered that they might constitute two independent
+phenomena in the context of AD. Anosognosia of cog-
+nitive/functional deﬁcits was found to be related to
+the severity of dementia, whereas an unawareness of
+behavior problems appeared to form part of a disinhi-
+bition syndrome.
+
+The ﬁndings are more consistent in relation to the
+symptoms associated with the anosognosia. Patients
+with anosognosia present deﬁcits in ADL [2–4, 10]
+and a greater number of behavioral and psychological
+
+symptoms of dementia (BPSD) [32] such as disin-
+hibition [4, 18, 27], apathy [28, 33], irritability and
+anxiety [4, 10, 16], agitation [20, 28], and aberrant
+motor behavior [28].
+
+A number of aspects merit particular mention. One is
+the relationship between depression and anosognosia.
+Although some authors have found a negative correla-
+tion between the two [11, 17, 18, 20], others have failed
+to conﬁrm this [21, 22, 28, 34]. Migliorelli et al. [35]
+reported a negative correlation between dysthymia and
+anosognosia in the early stages of AD, and suggested
+that this was an emotional reaction to the awareness of
+cognitive impairment.
+
+A further aspect to consider is the relationship
+between anosognosia and patient and caregiver per-
+ceptions of the patient’s quality of life (QoL-p). Some
+previous studies have reported an association between
+anosognosia and a better rating of QoL-p in patients
+with moderate dementia [7], but this was not the case
+for those with mild dementia [7, 36]. The level of agree-
+ment between patient and caregiver ratings of QoL-p
+has also been shown to be inﬂuenced by anosognosia
+[5, 6, 36].
+
+In relation to these aspects, the present study seeks
+to clarify which factors are predictive of and asso-
+ciated with anosognosia, to examine the reasons for
+the discrepancies in the literature with regards to
+depression and anosognosia, and to determine the role
+played by anosognosia with respect to the discrep-
+ancies between patient and caregiver ratings of the
+QoL-p. Speciﬁcally, the aims were: 1) to identify the
+clinical and socio-demographic factors associated with
+the presence/absence of anosognosia and the factors
+that predict it; and 2) to examine how the presence
+of anosognosia affects patient and caregiver ratings of
+QoL-p.
+
+MATERIALS AND METHODS
+
+Design and study population
+
+This observational, cross-sectional, and analytic
+study included a consecutive sample of out-patients
+seen at the Dementia Unit of the Department of Neu-
+rology at Bellvitge University Hospital (Hospitalet de
+Llobregat, Barcelona) and diagnosed as either AD
+according to DSM-IV (Diagnostic and Statistical Man-
+ual of Mental Disorders) criteria [37] or probable
+AD according to NINCDS-ADRDA (National Insti-
+tute of Neurological and Communicative Disorders
+and Stroke/Alzheimer’s Disease and Related Disorders
+
+J.L. Conde-Sala et al. / Anosognosia and Quality of Life
+
+1107
+
+Associations) criteria [38], and who had a score on the
+MMSE [39] of between 10 and 28, thereby enabling
+the QoL scale to be applied [40, 41]. The sample also
+comprised their respective caregivers, with the main
+caregiver being deﬁned as the person who was contin-
+uously responsible for helping the patient with ADL.
+Patients were excluded if they presented vascular or
+traumatic events, alcohol or substance dependency or
+abuse, and if they had severe communication problems
+that prevented them from responding adequately to the
+assessment questions. The study was approved by the
+hospital’s Clinical Research Ethics Committee.
+
+Instruments
+
+Clinical and socio-demographic data
+
+Socio-demographic data for patients (age, gender,
+schooling, months since diagnosis) were gathered
+using an ad hoc structured questionnaire.
+
+Anosognosia
+
+The Anosognosia Questionnaire-Dementia (AQ-D)
+[10, 17] was administered to patients and caregivers.
+It comprises 30 items that refer to cognitive/functional
+deﬁcits and personality changes, with each item being
+rated according to the frequency of occurrence, from 0
+(never) to 3 (always). The total score therefore ranges
+from 0 to 90, with higher scores indicating greater
+anosognosia. The ﬁnal score is obtained by calculating
+the difference between caregiver and patient scores. In
+the original scale validation, its authors considered that
+severe anosognosia was present when this difference
+is ≥32.
+
+Depression in the patient
+
+The Geriatric Depression Scale (GDS-d), in its 15-
+item format [42], was administered directly to patients.
+The cut-off score for probable depression is 6, while
+that for deﬁnite depression is 10.
+
+Quality of life
+
+The Quality of Life-Alzheimer’s Disease (QoL-AD)
+scale [40] is designed to assess QoL-p from both the
+patient’s and the caregiver’s perspective. It comprises
+13 items that refer to different aspects of the patient’s
+wellbeing. Scores for each item range from 1 (poor)
+to 4 (excellent), yielding a total score between 13 and
+52 (the higher the score the better the QoL-p). The
+scale’s authors considered that it was valid for patients
+with MMSE scores >10. In the present study both the
+patient and caregiver perspectives were assessed.
+
+Cognitive assessment of the patient
+
+This was based on the MMSE [39], a brief cognitive
+assessment tool whose score ranges from 0 to 30 (the
+lower the score the greater the cognitive deterioration).
+This is the most widely used screening tool for detect-
+ing cognitive impairment in AD and it shows close
+correspondence to the different stages of deterioration
+in the disease [43]. MMSE scores were corrected for
+age and education [44].
+
+Functional assessment of the patient
+
+The Disability Assessment for Dementia (DAD)
+[45], a measure of basic and instrumental ADL, was
+administered to caregivers. The DAD comprises 40
+items and its total score ranges from 40 to 80 (the higher
+the score the greater functional capacity).
+
+Behavioral and psychological symptoms of
+dementia
+
+This aspect was evaluated by means of the Neu-
+ropsychiatric Inventory (NPI) [46], which comprises
+twelve subscales that assess the frequency and severity
+of twelve neuropsychiatric symptoms, based on infor-
+mation provided by caregivers. Scores range from 0 to
+144, and the higher the score the greater the frequency
+and severity of neuropsychiatric symptoms.
+
+Stage of dementia
+
+This was based on the criteria of the Global Deterio-
+ration Scale (GDS), a clinical assessment tool designed
+to determine the stage of a patient’s dementia [47].
+GDS 4 corresponds to cases of mild dementia, GDS 5
+to moderate dementia, and GDS 6 to moderately severe
+dementia.
+
+Caregiver burden
+
+This was assessed using the Zarit Burden Interview
+(ZBI) [48], which comprises 22 items that are scored
+on a Likert scale ranging from 1 (never) to 5 (almost
+always). The total score therefore ranges between 22
+and 110 (the higher the score the greater the burden).
+
+Procedure
+
+The neurologists from the Dementia Unit identiﬁed
+eligible patients according to the inclusion criteria and
+determined their stage of dementia on the GDS scale
+[47]. The sample was recruited between January and
+October 2011. Of the total number of patients who
+met the inclusion criteria, only four families declined
+to participate.
+
+Prior to the initial assessment interview at Bellvitge
+the aims of the study were
+
+University Hospital,
+
+1108
+
+J.L. Conde-Sala et al. / Anosognosia and Quality of Life
+
+explained to patients and caregivers, and informed con-
+sent was obtained from all participants. Patients and
+their caregivers were then interviewed separately by
+two psychologists trained in the administration of the
+respective tests ands instruments.
+
+Statistical analysis
+
+A descriptive analysis was carried out of the clinical
+and socio-demographic characteristics of the sample,
+using absolute and relative frequencies for qualitative
+variables and measures of central trend and dispersion
+for quantitative variables.
+
+Based on their score on the AQ-D patients were
+assigned to one of two groups, no or mild anosognosia
+(NM-AN) and severe anosognosia (S-AN), using the
+cut-off (≥32) suggested by the scale’s authors [9, 15].
+In order to optimize the utility and clinical interest of
+the results, patients without anosognosia (≤14 AQ-D)
+and those with mild anosognosia (14–32 AQ-D) were
+grouped together, as the analysis of associated factors
+revealed no signiﬁcant differences between these two
+subgroups.
+
+Differences between the two groups (NM-AN and
+S-AN) in relation to qualitative clinical and socio-
+demographic variables were analyzed by means of
+the chi-squared test. Quantitative variables were ana-
+lyzed by means of parametric or non-parametric tests,
+in accordance with criteria of normality. When there
+was a signiﬁcant difference between two measures
+Cohen’s d was calculated in order to determine the
+effect size. The degree of bivariate association between
+AQ-D scores and the clinical factors of patients was
+determined by calculating global correlations in each
+of the two groups, according to criteria of normality
+(rs = Spearman, r = Pearson).
+
+Predictive factors related to the dichotomous vari-
+able (NM-AN versus S-AN) were identiﬁed by means
+of a binary logistic regression analysis, using the Enter
+method (all variables in a single step) for global fac-
+tors and the forward Wald method for disaggregated
+factors (NPI & DAD).
+
+The relevance of the factors associated with anosog-
+nosia was evaluated by multiple linear regression
+analysis, using AQ-D score as the dependent variable
+and considering both global data and data disag-
+gregated by GDS stage. Finally, two multiple linear
+regression analyses were ﬁtted to the sample data as a
+whole using QoL-AD scores as the dependent vari-
+able, the purpose being to identify the inﬂuence of
+the various factors on QoL, according to both patient
+and caregiver perceptions. This was done using the
+
+Enter method (all variables in a single step) for global
+factors. In the multiple linear regression analysis, the
+coefﬁcient of contribution for each variable was calcu-
+lated by means of the solution suggested by Guilford
+and Fruchter [49]: beta coefﬁcient x the coefﬁcient of
+correlation with the dependent variable.
+
+For hypothesis contrasts, the level of statistical sig-
+niﬁcance was set at 0.05. All data processing and
+analysis was performed using SPSS version 17.0 for
+Windows.
+
+RESULTS
+
+Description of the sample
+
+The ﬁnal study sample comprised 164 patients.
+Twenty ﬁve of the initial cases (n = 189) were excluded:
+in 14 cases only the family caregiver could be
+interviewed, in one case only the patient could be inter-
+viewed, and in ten cases the patient had an MMSE score
+below 10.
+
+The mean age of patients was 77.6 ± 7.2 years; 96
+(58.5%) of them were women and 98 (59.7%) had
+received fewer than ﬁve years of schooling.
+
+The mean MMSE score was 17.9 ± 5.8. With
+regards to the severity of dementia, 71 patients (43.3%)
+met the criteria for GDS stage 4, 52 patients (31.7%)
+the criteria for GDS stage 5, and 41 patients (25.0%)
+
+Table 1
+Demographic and clinical data of patients
+
+Females n (%)
+Schooling
+
+<5 years n (%)
+≥5 years n (%)
+Age (mean ± SD)
+Mini-Mental State
+
+Examination (mean ± SD)
+
+Disability Assessment for
+Dementia (mean ± SD)
+Neuropsychiatric Inventory
+
+(mean ± SD)
+
+Geriatric Depression Scale
+
+(mean ± SD)
+
+Months since diagnosis
+
+(mean ± SD)
+
+Anosognosia
+
+Questionnaire-Dementia
+(mean ± SD)
+QoL-AD of patient
+(mean ± SD)
+Patient
+Caregiver
+
+n = 164
+
+96 (58.5)
+
+98 (59.8)
+66 (40.2)
+77.6 ± 7.2
+17.9 ± 5.8
+
+IQR (74.4–82.1)
+IQR (14.0–22.0)
+
+56.5 ± 10.4
+
+IQR (48.0–66.0)
+
+27.5 ± 21.2
+
+IQR (12.0–36.0)
+
+3.4 ± 2.9
+
+IQR (1.0–6.0)
+
+21.0 ± 22.0
+
+IQR (4.0–32.0)
+
+36.3 ± 18.9
+
+IQR (21.0–52.0)
+
+35.1 ± 4.7
+26.9 ± 5.7
+
+IQR (23.0–31.0)
+
+IQR, interquartile range; QoL-AD, Quality of Life-Alzheimer’s
+disease.
+
+J.L. Conde-Sala et al. / Anosognosia and Quality of Life
+
+1109
+
+Table 2
+Related factors in patients with anosognosia
+
+NM-AN
+n = 69
+18.2 ± 10.2
+16.3 ± 9.4
+1.7 ± 3.1
+40 (58.0)
+26 (37.7)
+76.0 ± 7.1
+19.5 ± 5.4
+63.7 ± 9.5
+30.2 ± 4.4
+33.4 ± 5.8
+13.8 ± 9.1
+1.2 ± 2.4
+1.8 ± 2.5
+3.2 ± 3.7
+0.2 ± 0.5
+1.7 ± 2.9
+0.6 ± 1.5
+1.0 ± 2.1
+4.2 ± 3.1
+25 (36.2)
+20 (29.0)
+12.5 ± 13.0
+
+S-AN
+n = 95
+49.4 ± 11.6
+41.2 ± 8.8
+8.6 ± 4.8
+56 (58.9)
+40 (42.1)
+78.7 ± 7.0
+16.7 ± 5.8
+51.3 ± 7.5
+24.9 ± 4.6
+26.3 ± 3.7
+37.5 ± 22.0
+3.2 ± 3.7
+2.7 ± 3.4
+7.2 ± 3.9
+2.8 ± 3.7
+4.7 ± 4.2
+3.4 ± 4.4
+3.6 ± 3.9
+2.9 ± 2.6
+19 (20.2)
+73 (76.8)
+27.2 ± 25.0
+
+34.0 ± 5.0
+30.1 ± 5.3
+5.3, <0.001; 0.75
+43.3 ± 12.8
+
+35.9 ± 4.4
+24.6 ± 4.7
+8.4, < 0.001; 2.48
+56.4 ± 15.8
+
+Test
+17.8a
+17.1a
+8.3c
+0.0b
+0.1b
+2.8c
+2.6c
+7.3c
+6.7c
+7.2c
+7.7c
+4.1c
+1.4c
+5.8c
+5.4c
+5.0c
+4.2c
+4.9c
+2.7c
+4.4b
+39.8b
+4.6c
+
+2.4c
+7.0a
+
+Differences
+P
+
+<0.001
+<0.001
+<0.001
+1.000
+0.682
+0.005
+0.009
+<0.001
+<0.001
+<0.001
+<0.001
+<0.001
+0.159
+<0.001
+<0.001
+<0.001
+<0.001
+<0.001
+0.005
+0.036
+<0.001
+<0.001
+
+0.014
+<0.001
+
+d
+
+2.85
+2.73
+1.70
+
+0.38
+0.50
+1.44
+1.44
+1.46
+1.40
+0.63
+
+1.05
+0.98
+0.83
+0.85
+0.82
+0.45
+
+0.73
+
+0.40
+1.09
+
+AQ-D. Total (mean ± SD)
+Intellectual Functions
+Behavior
+Females n (%)
+Schooling, >5 years n (%)
+Age (mean ± SD)
+MMSE (mean ± SD)
+DAD. Total (mean ± SD)
+
+Basic ADL
+Instrumental ADL
+NPI. Total (mean ± SD)
+
+Agitation
+Depression
+Apathy
+Disinhibition
+Irritability
+Aberrant motor behavior
+Appetite disorders
+GDS-d (mean ± SD)
+≥6 points n (%)
+GDS, stage 5-6 n (%)
+Months since diagnosis (mean ± SD)
+QoL-AD of patients (mean ± SD)
+
+Patient
+Caregiver
+Diff. (z, p; d)
+
+ZBI. Caregiver burden (mean ± SD)
+0.91
+at, Student’s t test (df = 162); bχ2, Chi-squared test with Yates’ correction (df = 1); cz, Mann-Whitney U; d, Cohen’s d. p-values <0.05 are shown in
+bold. NM-AN (No/Mild anosognosia) = <32; AQ-D, S-AN (Severe anosognosia) = ≥32 AQ-D; AQ-D, Anosognosia Questionnaire-Dementia;
+MMSE, Mini-Mental State Examination; DAD, Disability Assessment for Dementia; ADL, Activities of daily living; NPI, Neuropsychiatric
+Inventory; GDS-d, Geriatric Depression Scale; GDS, Global Deterioration Scale; QoL-AD, Quality of Life-Alzheimer’s disease; ZBI, Zarit
+Burden Interview.
+
+<0.001
+
+5.1c
+
+the criteria for GDS stage 6. The mean AQ-D score was
+36.3 ± 18.9, with 95 patients (57.9%; CI: 50.0–65.7)
+scoring ≥32 on this scale. The clinical and socio-
+demographic data are shown in Table 1.
+
+Factors associated with anosognosia
+
+The associated factors were compared across the
+two groups: NM-AN (n = 69) and S-AN (n = 95). In
+the bivariate analysis, patients with S-AN were older,
+scored lower on the MMSE, had more deﬁcits in ADL,
+more symptoms on the NPI (agitation, apathy, dis-
+inhibition, irritability, aberrant motor behavior, and
+appetite disorders), a more advanced GDS stage, and
+had been diagnosed for longer. There were no signiﬁ-
+cant differences related to gender or years of schooling
+(Table 2).
+
+The correlations between AQ-D scores and ADL
+were signiﬁcant in both groups, with the relationship
+instrumental ADL (NM-AN,
+being stronger
+rs = –0.42, p < 0.001; S-AN, rs = –0.40, p < 0.001). The
+
+for
+
+greatest differences between the two patient groups
+were observed in the correlations with the NPI.
+Whereas in the NM-AN group, there was only a
+weakly signiﬁcant correlation with euphoria (rs = 0.24,
+p = 0.045), the S-AN group showed signiﬁcant correla-
+tions between the AQ-D and several neuropsychiatric
+symptoms: agitation (rs = 0.24, p = 0.045), eupho-
+ria (rs = 0.29, p = 0.003), disinhibition (rs = 0.34,
+irritability (rs = 0.32, p = 0.002), aber-
+p = 0.001),
+(rs = 0.29, p = 0.003), and
+rant motor behavior
+appetite/weight changes (rs = 0.29, p = 0.004). Depres-
+sion scores on the GDS-d were signiﬁcantly and
+inversely correlated with the AQ-D when analyzing the
+total sample (rs = −0.27, p < 0.001). The complete cor-
+relational results can be consulted in the Supplemen-
+tary Table 1 (available online: http://www.j-alz.com/
+issues/33/vol33-4.html#supplementarydata06).
+
+The cognitive/functional subscale of the AQ-D
+showed a weakly signiﬁcant correlation with MMSE
+scores (rs = −0.28, p < 0.001) and a strongly signiﬁ-
+cant correlation with the DAD (rs = −0.67, p < 0.001).
+
+1110
+
+J.L. Conde-Sala et al. / Anosognosia and Quality of Life
+
+Table 3
+Binary logistic regression analysis with/without severe anosognosia
+
+Method: Enter
+
+Global factors
+
+B (SE)
+
+OR
+
+95% CI
+
+p
+
+0.11 (0.02)
+−0.40 (0.10)
+
+Behavior(NPI)
+Depression
+(GDS-d)
+Function: ADL
+(DAD)
+Age
+0.07 (0.03)
+Cognition (MMSE) −0.04 (0.04)
+
+−0.11 (0.03)
+
+1.11 1.06–1.17 <0.001
+0.66 0.54–0.82 <0.001
+
+0.88 0.83–0.94 <0.001
+
+1.08 1.00–1.15
+0.95 0.87–1.04
+
+0.027
+0.328
+
+Method: Forward
+
+B (SE)
+
+OR
+
+95% CI
+
+p
+
+Wald
+
+Disaggregated factors
+
+−0.34 (0.06)
+
+0.70 0.62–0.80 <0.001
+
+−0.37 (0.10)
+
+0.68 0.55–0.84 <0.001
+
+1.96 1.17–3.26
+1.22 1.05–1.43
+1.07 0.99–1.14
+
+0.010
+0.67 (0.26)
+0.010
+0.20 (0.07)
+0.053
+0.06 (0.03)
+Binary dependent variable: 1 = <32 AQ-D; 2 = ≥32 AQ-D; p-values
+<0.05 are shown in bold; B, unstandardized coefﬁcient; SE, standard
+Error; OR, odds ratio; CI, conﬁdence interval; AQ-D, Anosognosia
+Questionnaire-Dementia; MMSE, Mini-Mental State Examination;
+DAD, Disability Assessment for Dementia; IADL, instrumental
+activities of daily living; NPI, Neuropsychiatric Inventory; GDS-d,
+Geriatric Depression Scale.
+
+(NPI & DAD)
+Instrumental ADL
+(DAD)
+Depression
+(GDS-d)
+Disinhibition (NPI)
+Irritability (NPI)
+Age
+
+the GDS-d. By contrast, there were no signiﬁcant dif-
+ferences when depression was rated by caregivers via
+the NPI. The correlation between the GDS-d and NPI-
+depression was weak, although it was positive for the
+sample as a whole (rs = 0.23, p = 0.002).
+
+Factors predictive of anosognosia
+
+In the binary logistic regression model, the factors
+that predicted the presence of S-AN were a greater
+frequency and severity of BPSD (NPI), less depression
+(GDS-d), poorer functional ability (DAD), and older
+age. The MMSE score was not signiﬁcant due to its
+high collinearity with the DAD, although the MMSE
+did become a signiﬁcant predictor (OR = 0.90, 95%
+CI: 0.83–0.97, p = 0.010) when the DAD was removed
+from the regression analysis.
+
+The regression analysis applied to the disaggregated
+factors of the NPI and DAD showed that deﬁcits in
+instrumental ADL (DAD), less depression (GDS-d),
+NPI-irritability, and NPI-disinhibition were all signif-
+icant (Table 3). Scores on the NPI subscales agitation,
+apathy, aberrant motor behavior, and appetite disorders
+were not predictive of anosognosia.
+
+The behavioral subscale of the AQ-D showed a strong
+correlation with the NPI (rs = 0.63, p < 0.001).
+
+Regarding depression, patients in the NM-AN group
+scored higher when they were assessed directly with
+
+Anosognosia and severity of dementia
+
+Scores on the AQ-D increased in line with the
+severity of dementia in both NM-AN and S-AN
+
+Table 4
+Anosognosia and GDS stage. Bivariate and multiple linear regression analyses
+
+GDS 4
+
+n
+
+Mean ± SD
+
+71
+49
+22
+10.7
+
+24.5 ± 16.0a
+16.0 ± 10.4a
+43.4 ± 8.3
+<0.001; 2.9
+
+GDS 5
+
+Mean ± SD
+
+40.7 ± 14.0b
+23.8 ± 6.9
+47.6 ± 9.5b
+<0.001; 2.8
+
+n
+
+52
+15
+37
+8.7
+
+n
+
+41
+5
+36
+5.2
+
+GDS 6
+
+Mean ± SD
+
+Differences
+
+F (df)
+
+p
+
+51.1 ± 16.3c 41.3 (2, 161) <0.001
+23.4 ±8.7
+0.016
+55.0 ± 13.0c
+<0.001
+<0.001; 2.8
+
+4.3 (2, 66)
+8.7 (2, 92)
+
+GDS 4
+
+GDS 5
+
+GDS 6
+
+All cases
+
+A) AQ-D scores
+All cases
+
+1. NM-AN
+2. S-AN
+Diff. 1/2 (t, p; d)
+
+B) AQ-D Multiple linear
+
+regression
+
+Behavior (NPI)
+Depression (GDS-d)
+Function (DAD)
+Months since diagnosis
+F (df), p
+
+r2 = 0.611
+(cid:1)
+0.30
+−0.39
+−0.45
+−0.02
+25.5 (4,65)
+
+p
+0.002
+<0.001
+<0.001
+0.728
+<0.001
+
+r2 = 0.452
+(cid:1)
+0.47
+−0.27
+−0.11
+0.24
+9.6 (4,47)
+
+p
+<0.001
+0.015
+0.332
+0.029
+<0.001
+
+r2 = 0.342
+(cid:1)
+0.52
+−0.16
+−0.07
+0.32
+4.6 (4,36)
+
+p
+0.001
+0.278
+0.631
+0.054
+0.004
+
+r2 = 0.643
+(cid:1)
+0.37
+−0.24
+−0.42
+0.14
+
+r
+p
+CC
+<0.001
+0.61 23.4
+<0.001 −0.27
+6.7
+<0.001 −0.67 28.4
+0.012
+5.8
+71.1 (4,159) <0.001
+
+0.41
+
+A) Bivariate analysis. GDS, Global Deterioration Scale; Groups: 1. NM-AN (No/Mild anosognosia) = <32 AQ-D, 2. S-AN (Severe anosog-
+nosia) = ≥32 AQ-D; F, ANOVA, signiﬁcant with Bonferroni post-hoc: aContrast GDS 4-5, bContrast GDS 5-6, cContrast GDS 4–6; t, Student’s
+t test; d, Cohen’s d. p-values <0.05 are shown in bold. B) Multiple linear regression. F, ANOVA; r2, coefﬁcient of determination; (cid:1), standardized
+beta coefﬁcient: r, Pearson correlation (zero-order); CC, coefﬁcient of contribution (%), [((cid:1). r) x 100)]. AQ-D, Anosognosia Questionnaire-
+Dementia; GDS-d, Geriatric Depression Scale; NPI, Neuropsychiatric Inventory; DAD, Disability Assessment for Dementia.
+
+J.L. Conde-Sala et al. / Anosognosia and Quality of Life
+
+1111
+
+Table 5
+Patient and caregiver ratings of the QoL of patients. Bivariate and multiple linear regression
+
+A) QoL-AD scores
+Patients
+
+All cases
+1. NM-AN
+2. S-AN
+Diff. 1/2 (z, p; d)
+
+Caregivers
+All cases
+1. NM-AN
+2. S-AN
+Diff. 1/2 (t, p; d)
+Diff. Patients-caregivers
+NM-AN (z, p; d)
+S-AN (z, p; d)
+
+GDS 4
+
+GDS 5
+
+n
+
+Mean ± SD
+
+n
+
+Mean ± SD
+
+71
+49
+22
+1.5,
+
+71
+49
+22
+3.5,
+
+4.3,
+3.9,
+
+35.6 (4.6)
+35.0 (4.6)
+37.0 (4.4)
+0.118
+
+29.8 (5.7)a
+31.3 (5.4)
+26.4 (4.9)
+0.001; 0.95
+
+<0.001; 0.73
+<0.001; 2.27
+
+52
+15
+37
+2.4,
+
+52
+15
+37
+2.3,
+
+2.5,
+5.3,
+
+34.6 (4.4)
+31.8 (5.0)
+35.7 (3.6)
+0.014; 0.89
+
+25.7 (4.0)
+27.8 (3.7)
+24.9 (3.9)
+0.022; 0.76
+
+0.010; 0.90
+<0.001; 2.87
+
+n
+
+41
+5
+36
+2.1
+
+41
+5
+36
+1.2
+
+2.0
+5.2
+
+GDS 6
+
+Difference
+
+Mean ± SD
+
+Test (df)
+
+p
+
+1.4∗ (2)
+7.9∗ (2)
+1.5∗ (2)
+
+0.492
+0.019
+0.466
+
+22.0∗∗ (2,161) <0.001
+4.3∗∗ (2,66)
+0.016
+3.7∗∗ (2,92)
+0.028
+
+34.6 (5.3)
+29.8 (4.8)
+35.3 (5.1)
+0.028; 1.11
+
+23.5 (4.9)c
+26.2 (4.6)
+23.1 (4.9)c
+0.203
+
+0.043; 0.76
+<0.001; 2.43
+
+B. QoL-AD Multiple linear regression
+
+Patients (All cases)
+
+Caregivers (All cases)
+
+Depression (GDS-d)
+Anosognosia (AQ-D)
+Function (DAD)
+Behavior (NPI)
+Cognition (MMSE)
+F (df), p
+
+r2 = 0.486
+(cid:1)
+−0.52
+0.40
+0.23
+−0.17
+0.14
+29.6 (5,158),
+
+p
+
+<0.001
+<0.001
+0.008
+0.021
+0.026
+<0.001
+
+r
+−0.63
+0.24
+0.12
+−0.04
+0.13
+
+CC
+
+33.1
+10.0
+2.9
+0.7
+1.9
+
+r2 = 0.510
+(cid:1)
+−0.20
+−0.30
+0.37
+−0.17
+−0.12
+32.6 (5, 158),
+
+p
+
+0.001
+0.001
+<0.001
+0.018
+0.048
+<0.001
+
+r
+−0.13
+−0.57
+0.62
+−0.52
+0.14
+
+CC
+
+2.8
+17.6
+23.3
+9.1
+−1.8
+
+A) Bivariate analysis. GDS, Global Deterioration Scale; Groups: 1. NM-AN (No/Mild anosognosia) = <32 AQ-D, 2. S-AN (Severe anosog-
+nosia) = ≥32 AQ-D; ∗χ2 , Kruskal-Wallis, signiﬁcant with Bonferroni post-hoc: no signiﬁcant difference; ∗∗F, ANOVA signiﬁcant with Bonferroni
+post-hoc: ªContrast GDS 4-5, bContrast GDS 5-6, cContrast GDS 4–6; z, Mann-Whitney U; t, Student’s t test; d, Cohen’s d. p-values <0.05
+are shown in bold. B) Multiple regression. F, ANOVA; r2 , coefﬁcient of determination; (cid:1), standardized beta coefﬁcient; r, Pearson correlation
+(zero-order); CC, coefﬁcient of contribution (%), [((cid:1). r) x 100)]. QoL-AD, Quality of Life-Alzheimer’s disease; GDS-d, Geriatric Depression
+Scale; AQ-D, Anosognosia Questionnaire-Dementia; DAD, Disability Assessment for Dementia; NPI, Neuropsychiatric Inventory; MMSE,
+Mini-Mental State Examination.
+
+patients. Similarly, the percentage of patients with
+S-AN increased as the dementia became more severe
+(GDS 4 = 30.9%; GDS 5 = 71.1%; GDS 6 = 87.8%)
+(Table 4A).
+
+In the bivariate analysis of GDS stages, the differ-
+ences between the NM-AN and S-AN groups with
+respect to apathy, aberrant motor behavior, and appetite
+disorders were only signiﬁcant in the early stages of
+the disease. The only factors that remained signiﬁcant
+across all the stages were disinhibition, irritability, and
+agitation (Supplementary Table 2).
+
+In the linear regression analysis conducted accord-
+ing to GDS stage, the greatest number of relevant
+factors associated with the presence of S-AN was
+observed in relation to GDS stage 4 (deﬁcits in ADL,
+neuropsychiatric symptoms, and less depression). As
+the severity of dementia increased,
+these factors
+became less relevant, such that the only factor that
+showed a signiﬁcant association across all GDS stages
+was neuropsychiatric symptoms (NPI) (Table 4B).
+
+The patient’s quality of life and anosognosia
+
+Patients
+
+In the bivariate analysis, perceived QoL-p differed
+signiﬁcantly between patients with S-AN and those
+with NM-AN, with the former giving higher ratings
+on the QoL-AD scale (Table 2). In the analysis by
+GDS stage, there were no signiﬁcant differences in
+scores on the QoL-AD when considering the sample
+as a whole. However, when the two groups were ana-
+lyzed separately, the score on the QoL-AD decreased
+signiﬁcantly among NM-AN patients as their dementia
+became more severe, while there were no differences
+in S-AN patients. Scores on the QoL-AD were always
+lower among NM-AN patients than among those in the
+S-AN group, and this difference became more marked
+with increasing severity of dementia, reaching signiﬁ-
+cance at GDS stages 5 and 6 (Table 5A).
+
+In the linear regression analysis, higher scores for
+perceived QoL-p were associated with less depres-
+
+1112
+
+J.L. Conde-Sala et al. / Anosognosia and Quality of Life
+
+sion, greater anosognosia, better ability in relation to
+instrumental ADL, and fewer neuropsychiatric symp-
+toms. Depression and anosognosia were the main
+explanatory variables, accounting respectively for
+33.1% and 10.0% of the variance in QoL-AD scores
+(Table 5B).
+
+Caregivers
+
+In the bivariate analysis, caregiver ratings of QoL-
+p were higher for NM-AN patients than for those in
+the S-AN group (Table 2). In the analysis by GDS
+stage, ratings of QoL-p became worse as the sever-
+ity of dementia increased, this being the case for both
+groups (NM-AN and S-AN), although the difference
+between the two was only signiﬁcant at GDS stages
+4 and 5 (Table 5A). Caregiver burden (ZBI) only
+showed signiﬁcant correlations at these two stages,
+speciﬁcally with ratings of QoL-p (GDS 4, rs = –0.59,
+p < 0.001; GDS 5, rs = −0.38, p = 0.005) and scores
+on the AQ-D (GDS 4, rs = 0.44, p < 0.001; GDS 5,
+rs = 0.29, p = 0.033).
+
+In the linear regression analysis, higher ratings of
+QoL-p were associated with better functional ability,
+less anosognosia, less depression, and fewer neuropsy-
+chiatric symptoms. Anosognosia and functional ability
+explained, respectively, 17.6% and 23.3% of the vari-
+ance in QoL-AD scores (Table 5B).
+
+Differences between patients and caregivers
+
+The bivariate analysis showed that for both groups of
+patients (Table 2) and all GDS stages (Table 5A), care-
+giver ratings were always worse than those of patients.
+A linear regression analysis with the difference in QoL-
+AD scores (patients – caregivers) as the dependent
+variable (r2 = 0.468) revealed that anosognosia was
+the main variable ((cid:1) = 0.54, p < 0.001, r = 0.64) asso-
+ciated with differences in patient and caregiver ratings
+of QoL, it accounting for 34.6% of the variance.
+
+DISCUSSION
+
+Factors predictive of anosognosia
+
+The ﬁrst objective of this study was to identify fac-
+tors that predict anosognosia. The analysis showed that
+the most relevant variables in this regard were more
+symptoms on the NPI, less depression (GDS-d), and
+greater deﬁcits in ADL. In line with previous research,
+the most important neuropsychiatric symptoms were
+found to be greater disinhibition [4, 18, 27] and irri-
+tability [4, 10, 16]. The signiﬁcant association between
+
+deﬁcits in ADL and anosognosia has also been reported
+previously [2–4, 10]. Overall, apathy was not a predic-
+tor of anosognosia, consistent with a speciﬁc study on
+this aspect [33]. In line with other previous ﬁndings
+[28, 50], apathy was correlated with anosognosia in our
+patients with mild dementia. However, this correlation
+was not maintained among patients with moderate or
+severe dementia. These results suggest that apathy is
+a disorder that increases in line with the severity of
+dementia regardless of the presence of anosognosia,
+and it may be considered a predictor of functional
+deterioration, especially regarding basic ADL [51].
+
+Anosognosia and severity of dementia: Associated
+and speciﬁc factors
+
+Scores on the AQ-D increased in line with the sever-
+ity of dementia (GDS) in both NM-AN and S-AN
+patients, although more notably in the former. These
+results are consistent with previous ﬁndings regarding
+the relationship between the degree of anosognosia and
+severity of dementia [4, 16–20]. Some authors have,
+however, questioned these ﬁndings due to the lack of
+a signiﬁcant correlation with the MMSE [21–24] or
+because they consider that the most signiﬁcant aspect
+is frontal lobe dysfunction [21, 24] or behavioral prob-
+lems [23], rather than the severity of dementia. In the
+present study, the MMSE also appeared as a predictive
+variable in the binary logistic regression analysis when
+the DAD variable was removed, with a high degree of
+collinearity between the two.
+
+A further aspect is the difﬁculty of differentiating
+among disorders associated with anosognosia or with
+the severity of dementia. Although anosognosia does
+increase in line with the severity of dementia, this is
+also the case of other problems such as apathy, appetite
+disorders, and aberrant motor behavior. Differences
+between the NM-AN and S-AN groups with regard to
+these disorders were only present at the early stage of
+dementia, the distinction being lost in more advanced
+patients. This suggests that these disorders are more
+related to the stage of dementia than to anosognosia,
+and at all events they would only be associated with
+anosognosia in early-stage patients. This conclusion is
+supported by the results of a previous study that found
+a positive correlation between anosognosia and apathy,
+agitation, and aberrant motor behavior in patients with
+mild AD [28].
+
+Disinhibition,
+
+irritability, and agitation seem to
+be more speciﬁcally associated with anosognosia
+as they were more common among patients in the
+S-AN group, including at advanced stages. Similarly,
+
+J.L. Conde-Sala et al. / Anosognosia and Quality of Life
+
+1113
+
+in the linear regression analysis, the only variable
+that remained signiﬁcant across all stages was neu-
+ropsychiatric symptoms (NPI). These data suggest that
+greater anosognosia is associated with greater severity
+of dementia, although this relationship is more notable
+in patients with more BPSD, who probably present
+more frontal lobe dysfunctions [21, 24].
+
+Depression and anosognosia
+
+All the analyses of the present study reveal an inverse
+correlation between depression (assessed by the GDS-
+d) and anosognosia, a ﬁnding consistent with a number
+of previous studies [11, 17, 18, 20, 35]. However, not
+all authors have found this relationship [21, 22, 28,
+34]. This discrepancy may be due to a methodological
+problem. Whereas the former set of authors applied
+instruments directly to the patient, the latter assessed
+depression according to DSM-IV criteria for major
+depression [21, 34], using either the items from the
+AQ-D [22] or the NPI-Depression subscale [28].
+
+Assessing depression in the patient directly during
+the early stages of dementia enables reliable infor-
+mation to be obtained, whereas it is possible than in
+more advanced stages, the patient’s mood will also be
+affected by anosognosia. Our data support the hypoth-
+esis of those authors who found a negative correlation
+between anosognosia and depression, namely that a
+greater awareness of deﬁcits (less anosognosia) is
+related to a reactive depressive mood, especially in the
+early stages of dementia.
+
+The patient’s quality of life and anosognosia
+
+The second objective of this study was to examine
+the relationship between anosognosia and patient and
+caregiver ratings of the QoL-p. In line with previous
+research [7, 36], we found that in cases of mild AD
+(GDS stage 4), anosognosia did not produce differ-
+ences in the perception of patients. Overall, patients
+with S-AN gave higher ratings of QoL, whereas those
+in the NM-AN group rated QoL as worse. This shows
+that a greater awareness of deﬁcits and difﬁculties (less
+anosognosia) is related to a poorer perception of QoL,
+and highlights the relevance of psychological factors in
+the early stages of the disease (lower QoL-AD scores
+associated with greater depression and less anosog-
+nosia). Conversely, in more advanced stages biological
+factors would acquire greater importance (higher QoL-
+AD scores associated with more anosognosia).
+
+Caregiver ratings of QoL-p were lower as the
+severity of dementia increased, although the greatest
+
+differences related to anosognosia were observed in
+the early stages of the disease. These results could be
+related to the fact that caregiver burden [9] is more
+strongly correlated with QoL-p and AQ-D scores in
+the early stages, due to the greater initial impact of the
+disease.
+
+Anosognosia was the most important variable in
+terms of explaining the differences between patient and
+caregiver ratings of QoL-p. Greater anosognosia was
+related to better perceived QoL-p among patients and to
+poorer ratings by caregivers. These data call into ques-
+tion the perception of QoL-p reported by patients with
+S-AN, especially in the advanced stages of dementia.
+This is consistent with the ﬁndings of various authors
+who consider that in patients with anosognosia the
+ratings of QoL-p are better [7, 36], less reliable, and
+should be interpreted with caution [5, 6].
+
+In terms of objective criteria of impairment, care-
+giver ratings would seem to offer a better reﬂection
+of reality. Subjectively, however, the differing percep-
+tions of patients and caregivers may represent two
+potentially valid perspectives [6, 12], although further
+research would be required to conﬁrm this hypothesis.
+
+CONCLUSIONS
+
+This study makes two main contributions. Firstly,
+it identiﬁes the functional deﬁcits (neuropsychiatric
+symptoms) that are associated with greater anosog-
+nosia, highlighting instrumental ADL, disinhibition,
+and irritability as predictive factors. Less depression,
+assessed directly in the patients, was also a relevant
+predictor of anosognosia. Secondly, the study demon-
+strates that anosognosia is the most important factor
+in relation to the discrepancies between patient and
+caregiver ratings of the QoL-p. Patients with greater
+anosognosia rate their QoL as higher, this being par-
+ticularly so in the advanced stages of dementia. Among
+caregivers, by contrast, greater anosognosia is associ-
+ated with poorer ratings of the QoL-p, especially in
+the early stages of the disease, where it is strongly
+correlated with caregiver burden.
+
+Clinical implications
+
+Patients without anosognosia present more depres-
+sion, while less depression is shown to be the most
+important factor in terms of better perceived QoL-p.
+Consequently, depression should be regarded as a key
+factor in the treatment of patients with AD.
+
+1114
+
+J.L. Conde-Sala et al. / Anosognosia and Quality of Life
+
+Behavioral symptoms are an important factor in
+patients with anosognosia. This is a more complicated
+issue as such symptoms form an intrinsic part of the
+disease, this being more notable among patients with
+anosognosia. A reduction in neuropsychiatric symp-
+toms would lead to increased wellbeing in the patient
+and, especially, in family caregivers.
+
+Patients’ own ratings of their QoL should be accom-
+panied by measures of depression and anosognosia.
+Whereas depression could lead to a more negative
+perception the presence of anosognosia could lead to
+overly positive ratings of QoL by the patient, hence the
+need for complementary measures.
+
+Among caregivers, interventions that enable them
+to develop a better understanding of the nature of
+dementia, to maintain signiﬁcant relationships with the
+patient [12], and which provide ongoing educational
+and emotional support to reduce burden could help
+them to have a more positive view of QoL-p [52, 53].
+
+Limitations and future directions
+
+The present research opted for a global study of
+anosognosia so as to analyze the clinical factors asso-
+ciated with it and to examine its effect on patient
+and caregiver ratings of the QoL-p. The study of how
+anosognosia affects the different neuropsychological
+domains (memory, language, executive functions, etc.)
+would require both a more homogeneous sample in
+relation to MMSE scores, as well as the use of spe-
+ciﬁc tests to assess these domains. These aspects need
+to be addressed in future research. The controversial
+issue of depression and anosognosia could be analyzed
+in future studies in relation to the speciﬁc criteria of
+depression in AD [54].
+
+Another key limitation of the present study is that it
+lacks a longitudinal perspective which would provide
+greater clarity regarding the factors associated with
+both anosognosia and QoL-p as dementia becomes
+more severe. Finally, it is acknowledged that the study
+did not consider, in detail, the potential inﬂuence of
+caregiver factors such as gender, burden, and men-
+tal health on the appraisal of anosognosia and QoL-p.
+Future studies should therefore analyze caregiver fac-
+tors in relation to the latter two aspects.
+
+ACKNOWLEDGMENTS
+
+The authors are grateful for the support given to this
+study by the town council of Hospitalet de Llobre-
+gat. They would also like to thank the psychiatrist, Dr
+Joan Vilalta-Franch, for his help with methodological
+
+and statistical aspects of the research. This study was
+conducted within the framework of the project Assess-
+ing perceptions of patient quality of life in patients
+with Alzheimer’s disease and their family caregivers
+over a two-year period, funded by Spain’s Ministry of
+Science and Innovation (reference PSI2010-19014).
+
+Authors’ disclosures available online (http://www.j-
+
+alz.com/disclosures/view.php?id=1539).
+
+REFERENCES
+
+[1] Reisberg B, Gordon B, McCarthy M, Ferris SH, deLeon MJ
+(1985) Insight and denial accompanying progressive cog-
+nitive decline in normal aging and Alzheimer’s disease. In
+Geriatric Psychiatry: Ethical and Legal Issues, Stanley B,
+ed. American Psychiatric Press, Washington DC, pp. 19-39.
+[2] Orfei MD, Varsi AE, Blundo C, Celia E, Casini AR, Calta-
+girone C, Spalletta G (2010) Anosognosia in mild cognitive
+impairment and mild Alzheimer’s disease: Frequency and
+neuropsychological correlates. Am J Geriatr Psychiatry 18,
+1133-1140.
+
+[3] Leicht H, Berwig M, Gertz HJ (2010) Anosognosia in
+Alzheimer’s disease: The role of impairment levels in assess-
+ment of insight across domains. J Int Neuropsychol Soc 16,
+463-473.
+
+[4] Starkstein SE, Jorge R, Mizrahi R, Robinson RG (2006) A
+diagnostic formulation for anosognosia in Alzheimer’s dis-
+ease. J Neurol Neurosurg Psychiatry 77, 719-725.
+
+[5] Berwig M, Leicht H, Gertz HJ (2009) Critical evaluation
+of self-rated quality of life in mild cognitive impairment
+and Alzheimer’s disease–further evidence for the impact of
+anosognosia and global cognitive impairment. J Nutr Health
+Aging 13, 226-230.
+
+[6] Ready RE, Ott BR, Grace J (2006) Insight and cognitive
+impairment: Effects on quality-of-life reports from mild cog-
+nitive impairment and Alzheimer’s disease patients. Am J
+Alzheimers Dis Other Demen 21, 242-248.
+
+[7] Hurt CS, Banerjee S, Tunnard C, Whitehead DL, Tsolaki M,
+Mecocci P, Kloszewska I, Soininen H, Vellas B, Lovestone
+S (2010) Insight, cognition and quality of life in Alzheimer’s
+disease. J Neurol Neurosurg Psychiatry 81, 331-336.
+[8] Starkstein SE, Jorge R, Mizrahi R, Adrian J, Robinson RG
+(2007) Insight and danger in Alzheimer’s disease. Eur J Neu-
+rol 14, 455-460.
+
+[9] Turr´o-Garriga O, Garre-Olmo J, Vilalta-Franch J, Conde-Sala
+J, de Gracia-Blanco M, L´opez-Pousa S (2012) Burden associ-
+ated with the presence of anosognosia in Alzheimer’s disease.
+Int J Geriatr Psychiatry, in Press. doi: 10.1002/gps.3824
+
+[10] Migliorelli R, Tes´on A, Sabe L, Petracca G, Petracchi M, Lei-
+guarda R, Starkstein SE (1995) Anosognosia in Alzheimer’s
+disease: A study of associated factors. J Neuropsychiatry Clin
+Neurosci 7, 338-344.
+
+[11] Sevush S, Leve N (1993) Denial of memory deﬁcit
+Alzheimer’s disease. Am J Psychiatry 150, 748-751.
+[12] Smyth KA, Neundorfer MM, Koss E, Geldmacher DS,
+Ogrocki PK, Whitehouse PJ
+life
+and deﬁcit identiﬁcation in dementia. Dementia 1, 345-
+358.
+
+(2002) Quality of
+
+in
+
+[13] Agnew SK, Morris RG (1998) The heterogeneity of anosog-
+nosia for memory impairment in Alzheimer’s disease: A
+review of the literature and a proposed model. Aging Ment
+Health 2, 7-19.
+
+J.L. Conde-Sala et al. / Anosognosia and Quality of Life
+
+1115
+
+[14] Hannesdottir K, Morris RG (2007) Primary and sec-
+ondary anosognosia for memory impairment in patients with
+Alzheimer’s disease. Cortex 43, 1020-1030.
+
+[15] Markov´a IS, Clare L, Wang M, Romero B, Kenny G (2005)
+issues. Aging Ment
+
+Awareness in dementia: Conceptual
+Health 9, 386-393.
+
+[16] Vasterling JJ, Seltzer B, Foss JW, Vanderbrook V (1995)
+Unawareness of deﬁcit in Alzheimer’s disease: Domain-
+speciﬁc differences and disease correlates. Neuropsychiatry
+Neuropsychol Behav Neurol 8, 26-32.
+
+[17] Starkstein SE, Chemerinski E, Sabe L, Kuzis G, Petracca G,
+Tes´on A, Leiguarda R (1997) Prospective longitudinal study
+of depression and anosognosia in Alzheimer’s disease. Br J
+Psychiatry 171, 47-52.
+
+[18] Kashiwa Y, Kitabayashi Y, Narumoto J, Nakamura K, Ueda H,
+Fukui K (2005) Anosognosia in Alzheimer’s disease: Associ-
+ation with patient characteristics, psychiatric symptoms and
+cognitive deﬁcits. Psychiatry Clin Neurosci 59, 697-704.
+
+[19] Turr´o-Garriga O, Lopez-Pousa S, Vilalta-Franch J, Garre-
+Olmo J (2012) Evaluation of anosognosia in Alzheimer’s
+disease. Rev Neurol 54, 193-198.
+
+[20] Harwood DG, Sultzer DL, Wheatley MV (2000) Impaired
+insight in Alzheimer disease: Association with cognitive
+deﬁcits, psychiatric symptoms, and behavioral disturbances.
+Neuropsychiatry Neuropsychol Behav Neurol 13, 83-88.
+[21] Reed BR, Jagust WJ, Coulter L (1993) Anosognosia in
+Alzheimer’s disease: Relationships to depression, cognitive
+function, and cerebral perfusion. J Clin Exp Neuropsychol
+15, 231-244.
+
+[22] Almeida OP, Crocco EI (2000) Perception of cognitive deﬁcits
+and behavior disorders in patients with Alzheimer’s disease.
+Arq Neuropsiquiatr 58, 292-299.
+
+[23] Weinstein EA, Friedland RP, Wagner EE (1994)
+Denial/unawareness of impairment and symbolic behavior
+in Alzheimer’s disease. Neuropsychiatry Neuropsychology
+Behav Neurol 7, 176-184.
+
+[24] Michon A, Deweer B, Pillon B, Agid Y, Dubois B (1994) Rela-
+tion of anosognosia to frontal lobe dysfunction in Alzheimer’s
+disease. J Neurol Neurosurg Psychiatry 57, 805-809.
+[25] Marshall GA, Kaufer DI, Lopez OL, Rao GR, Hamilton
+RL, DeKosky ST (2004) Right prosubiculum amyloid plaque
+density correlates with anosognosia in Alzheimer’s disease.
+J Neurol Neurosurg Psychiatry 75, 1396-1400.
+
+[26] Sedaghat F, Dedousi E, Baloyannis I, Tegos T, Costa V, Dim-
+itriadis AS, Baloyannis SJ (2010) Brain SPECT ﬁndings of
+anosognosia in Alzheimer’s disease. J Alzheimers Dis 21,
+641-647.
+
+[27] Amanzio M, Torta DM, Sacco K, Cauda F, D’Agata F, Duca S,
+Leotta D, Palermo S, Geminiani GC (2011) Unawareness of
+deﬁcits in Alzheimer’s disease: Role of the cingulate cortex.
+Brain 134, 1061-1076.
+
+[28] Spalletta G, Girardi P, Caltagirone C, Orfei MD (2012)
+Anosognosia and neuropsychiatric symptoms and disorders
+in mild Alzheimer disease and mild cognitive impairment.
+J Alzheimers Dis 29, 761-772.
+
+[29] Salmon E, Perani D, Herholz K, Marique P, Kalbe E, Holthoff
+V, Delbeuck X, Beuthien-Baumann B, Pelati O, Lespagnard S,
+Collette F, Garraux G (2006) Neural correlates of anosognosia
+for cognitive impairment in Alzheimer’s disease. Hum Brain
+Mapp 27, 588-597.
+
+[30] Miller BL, Ikonte C, Ponton M, Levy M, Boone K, Darby A,
+Berman N, Mena I, Cummings JL (1997) A study of the Lund-
+Manchester research criteria for frontotemporal dementia:
+Clinical and single-photon emission CT correlations. Neu-
+rology 48, 937-942.
+
+[31] Starkstein SE, Sabe L, Chemerinski E, Jason L, Leiguarda R
+(1996) Two domains of anosognosia in Alzheimer´s disease.
+J Neurol Neurosurg Psychiatry 61, 485-490.
+
+[32] Vogel A, Waldorff FB, Waldemar G (2010) Impaired aware-
+ness of deﬁcits and neuropsychiatric symptoms in early
+Alzheimer’s disease: The Danish Alzheimer Intervention
+Study (DAISY). J Neuropsychiatry Clin Neurosci 22, 93-99.
+[33] Starkstein SE, Brockman S, Bruce D, Petracca G (2010)
+Anosognosia is a signiﬁcant predictor of apathy in
+Alzheimer’s disease. J Neuropsychiatry Clin Neurosci 22,
+378-383.
+
+[34] Lopez OL, Becker JT, Somsak D, Dew MA, DeKosky ST
+(1994) Awareness of cognitive deﬁcits and anosognosia in
+probable Alzheimer’s disease. Eur Neurol 34, 277-282.
+[35] Migliorelli R, Teson A, Sabe L, Petracchi M, Leiguarda R,
+Starkstein SE (1995) Prevalence and correlates of dysthymia
+and major depression among patients with Alzheimer’s dis-
+ease. Am J Psychiatry 152, 37-44.
+
+[36] Vogel A, Mortensen EL, Hasselbalch SG, Andersen BB,
+Waldemar G (2006) Patient versus informant reported qual-
+ity of life in the earliest phases of Alzheimer’s disease. Int J
+Geriatr Psychiatry 21, 1132-1138.
+
+[37] American
+
+Psychiatric Association
+
+(2001) Manual
+diagn´ostico y estad´ıstico de los trastornos mentales. 4 ed.,
+texto revisado (DSM-IV-TR), Masson, Barcelona.
+
+[38] McKhann G, Drachman D, Folstein M, Katzman R, Price D,
+Stadlan EM (1984) Clinical diagnosis of Alzheimer’s disease:
+Report of the NINCDS-ADRDA Work Group under the aus-
+pices of Department of Health and Human Services task force
+on Alzheimer’s disease. Neurology 34, 939-944.
+
+[39] Folstein MF, Folstein SE, McHugh PR (1975) Mini Mental
+State. A practical method for grading the cognitive state of
+patients for the clinician. J Psychiatr Res 12, 189-198.
+[40] Logsdon RG, Gibbons LE, McCurry SM, Teri L (2002)
+Assessing quality of life in older adults with cognitive impair-
+ment. Psychosom Med 64, 510-519.
+
+[41] Karttunen K, Karppi P, Hiltunen A, Vanhanen M, V¨alim¨aki
+T, Martikainen J, Valtonen H, Sivenius J, Soininen H, Har-
+tikainen S, Suhonen J, Pirttil¨a T; ALSOVA study group (2011)
+Neuropsychiatric symptoms and quality of life in patients
+with very mild and mild Alzheimer’s disease. Int J Geriatr
+Psychiatry 26, 473-482.
+
+[42] Sheikh JL, Yesavage JA (1986) Geriatric Depression Scale
+(GDS): Recent evidence and development of a shorter version.
+Clin Gerontol 5, 165-173.
+
+[43] Kraemer HC, Taylor JL, Tinklenberg JR, Yesavage JA (1998)
+The stages of Alzheimer’s disease: A reappraisal. Dement
+Geriatr Cogn Disord 9, 299-308.
+
+[44] Blesa R, Pujol M, Aguilar M, Santacruz P, Bertran-Serra I,
+Hern´andez G, Sol JM, Pe˜na-Casanova J; NORMACODEM
+Group. NORMAlisation of Cognitive, Functional Instruments
+for, DEMentia (2001) Clinical validity of the ‘mini-mental
+state’ For Spanish speaking communities. Neuropsychologia
+39, 1150-1157.
+
+[45] G´elinas I, Gauthier L, McIntyre M, Gauthier S (1999) Devel-
+opment of a functional measure for persons with Alzheimer’s
+disease: The Disability Assessment for Dementia. Am J Occup
+Ther 53, 471-481.
+
+[46] Cummings JL, Mega M, Gray K, Rosemberg-Thompson S,
+Carusi DA, Gornbein J (1994) The neuropsychiatric inventory
+Comprehensive assessment of psychopathology in dementia.
+Neurology 44, 2308-2314.
+
+[47] Reisberg B, Ferris SH, De Leon MJ, Crook T (1982) The
+Global Deterioration Scale for assessment of primary degen-
+erative dementia. Am J Psychiatry 139, 1136-1139.
+
+1116
+
+J.L. Conde-Sala et al. / Anosognosia and Quality of Life
+
+[48] Zarit SH, Todd PA, Zarit JM (1986) Subjective burden
+of husbands and wives as caregiver: A longitudinal study.
+Gerontologist 26, 260-266.
+
+[49] Guilford JP, Fruchter B (1973) Fundamental statistics in psy-
+
+chology and education (5th ed.). McGraw- Hill, New York.
+
+[50] Derouesne C, Thibault S, Lagha-Pierucci S, Baudouin-Madec
+V, Ancri D, Lacomblez L (1999) Decreased awareness
+of cognitive deﬁcits in patients with mild dementia of
+the Alzheimer type. Int J Geriat Psychiatry 14, 1019-
+1030.
+
+[51] Boyle PA, Malloy PF, Salloway S, Cahn-Weiner DA, Cohen
+R, Cummings JL (2003) Executive dysfunction and apathy
+predict functional impairment in Alzheimer disease. Am J
+Geriatr Psychiatry 11, 214-221.
+
+[52] Conde-Sala JL, Garre-Olmo J, Turr´o-Garriga O, L´opez-Pousa
+S, Vilalta-Franch J (2009) Factors related to perceived qual-
+ity of life in patients with Alzheimer’s disease: The patient’s
+perception compared with that of caregivers. Int J Geriatr
+Psychiatry 24, 585-594.
+
+[53] Conde-Sala JL, Garre-Olmo J, Turr´o-Garriga O, Vilalta-
+Franch J, L´opez-Pousa S (2010) Quality of life of patients with
+Alzheimer’s disease: Differential perceptions between spouse
+and adult child caregivers. Dement Geriatr Cogn Disord 29,
+97-108.
+
+[54] Olin JT, Katz IR, Meyers BS, Schneider LS, Lebowitz
+BDf (2002) Provisional diagnostic criteria for depression of
+Alzheimer disease: Rationale and background. Am J Geriatr
+Psychiatry 10, 129-141.
+
+
