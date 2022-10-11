@@ -31,6 +31,10 @@ def pdf2txt(file, tool):
         for page in doc:
             text += page.get_text()
 
+    else:
+        print("Selected tool is not available.")
+        return None, None
+
     return text, len(text.split())
 
 
