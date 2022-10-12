@@ -4,7 +4,11 @@
 """
 
 # import packages
+import os.path
+
 import pandas as pd
+import glob
+import shutil
 
 
 # function to append df2 to df1
@@ -37,19 +41,31 @@ def insert_columns(df1, df1_cols, df2):
         return df1, df2
 
 
+# define function to separate text files depending on the year - taking splitted pdf files as reference
+def separate_documents(pdf_path, txt_path):
+    # get pdf filenames from corresponding pdf_path (year)
+    pdf_filenames = [file.split("\\")[-1][:-4] for file in glob.glob(pdf_path + "/*.pdf")]
+    txt_filenames = [file.split("\\")[-1][:-4] for file in glob.glob(txt_path + "/*.txt")]
+    # define summaries path to replicate exercise
+    sum_path = txt_path + "summaries/"
+    # get year
+    year = pdf_path.split("/")[-2]
+    # create new folder if it does not exist
+    if not os.path.exists(txt_path + year + "/"):
+        new_path = txt_path + year + "/"
+        os.mkdir(new_path)
+    if not os.path.exists(sum_path + year + "/"):
+        new_sum_path = sum_path + year + "/"
+        os.mkdir(new_sum_path)
+    for txt_file in txt_filenames:
+        if txt_file in pdf_filenames:
+            shutil.move(txt_path + txt_file + ".txt", new_path + txt_file + ".txt")
+            shutil.move(sum_path + txt_file + "_sum.txt", new_sum_path + txt_file + "_sum.txt")
+
+
 #################### ---------- MAIN ---------- ####################
 
 
-data_path = "D:/GitHub/Data/"
-# load the datasets that will be appended
-df_2013_2014 = pd.read_excel(data_path + "bd_2013_2014.xlsx")
-df_2015 = pd.read_excel(data_path + "bd_2015.xlsx")
-df_2016 = pd.read_excel(data_path + "bd_2016.xlsx")
-# create a dataframe corresponding to articles that we do not have in our corpus (filtro_titol == 0)
-df_2013_2014 = df_2013_2014[df_2013_2014["filtro_titol"] == 0]
-df_2015 = df_2015[df_2015["filtro_titol"] == 0]
-df_2016 = df_2016[df_2016["filtro_titol"] == 0]
-# create dataframe
-no_titol_df = append_df(df_2013_2014, append_df(df_2015, df_2016))
-# save dataframe for future operations
-no_titol_df.to_csv(data_path + "no_titol_df.csv")
+data_path = "D:/GitHub/Data/2013-14/"
+txt_path = "D:/GitHub/Data/noTITOL/txt/en/"
+separate_documents(data_path, txt_path)

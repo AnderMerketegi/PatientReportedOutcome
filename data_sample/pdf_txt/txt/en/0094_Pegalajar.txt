@@ -1323,19 +1323,19 @@ El recuerdo del año en que ocurrió es…
 
 1 2 3 4 5 6 7
 
-Impreciso / Incierto
-
-Claro
-
-Impreciso / Incierto
-
-Claro
-
 16
 
 El recuerdo de la estación del año en que ocurrió es…
 
 1 2 3 4 5 6 7
+
+Impreciso / Incierto
+
+Claro
+
+Impreciso / Incierto
+
+Claro
 
 Impreciso / Incierto
 

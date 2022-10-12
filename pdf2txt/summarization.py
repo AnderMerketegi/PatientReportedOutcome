@@ -7,6 +7,7 @@
 """
 
 # import packages
+import glob
 import os
 import re
 import numpy as np
@@ -54,8 +55,8 @@ def page_rank(similarity_matrix):
     return probability_list
 
 
-# function to summarize text
-def summarize(t, n):
+# function to summarize text t and get n most important sentences
+def summarize_text(t, n):
     t = t.split('.')
     t = [sentence.lstrip() for sentence in t]
     # create initial similarity matrix
@@ -71,25 +72,46 @@ def summarize(t, n):
     # get indexes for first n sentences
     selected_indexes = [tup[0] for tup in probability_list][:n]
     # get selected sentences and return
-    selected_sentences = [t[i] for i in selected_indexes]
-    return selected_sentences
+    summarized_text = " ".join([t[i] for i in selected_indexes])
+    return summarized_text
+
+
+# function to summarize (n sentences) all txt documents from path and store them in output path
+def summarize(path, n, output_path):
+    # check that paths exist
+    if not os.path.exists(path):
+        print(f"Unable to find path: {path}.")
+        return
+    if not os.path.exists(output_path):
+        print(f"Unable to find output path.")
+        os.mkdir(output_path)
+        print(f"Output path created.\n")
+    # count summarized documents
+    n_sum = 0
+    # get txt files from path
+    files = glob.glob(path + "*.txt")
+    n_total = len(files)
+    for file in files:
+        # read full document
+        with open(file, 'r', encoding='utf-8') as f:
+            t = f.read()
+        # clean text
+        t = clean_text(t)
+        # get summarized text
+        summarized_t = summarize_text(t, n)
+        # print(output_path + file.split("\\")[-1][:-4] + "_sum.txt")
+        with open(output_path + file.split("\\")[-1][:-4] + "_sum.txt", "w", encoding='utf-8') as f:
+            f.write(summarized_t)
+            n_sum += 1
+
+    print(f"{n_total}/{n_sum} text files summarized.")
 
 
 #################### ---------- MAIN ---------- ####################
 
 
 # define data path
-data_path = "D:/GitHub/PatientReportedOutcome/data_sample/pdf_txt/"
-
-# get and store txt file
-file = [data_path + f for f in [f for f in os.listdir(data_path) if f.endswith("txt")]][0]
-with open(file, 'r', encoding='utf-8') as f:
-    text = f.read()
-
-# clean text
-text = clean_text(text)
-# get summarized text - n sentences
+data_path = "D:/GitHub/PatientReportedOutcome/data_sample/pdf_txt/txt/en/"
+# summarize all txt files located in data_path - 25 sentences
 n = 25
-selected_sentences = summarize(text, n)
-[print(s) for s in selected_sentences]
-
+summarize(data_path, n, data_path + "summaries/")

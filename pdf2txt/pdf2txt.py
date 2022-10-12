@@ -5,9 +5,12 @@
 # import packages
 import os
 import glob
+import shutil
+
 from PyPDF2 import PdfReader
 from pdfminer.high_level import extract_text
 import fitz
+from langdetect import detect
 
 
 # function to convert pdf files to txt files making use of the specified tool
@@ -64,6 +67,11 @@ def get_text_percentage(file):
     return int((total_text_area / total_page_area) * 100)
 
 
+# define function that detects the language of the article
+def detect_language(text):
+    return detect(text)
+
+
 # define function to convert all documents in file, making use of specified tool and saving the text file in output file
 def convert_documents(tool, path, output_path):
     # check if output_path exists - if not, create path
@@ -76,19 +84,34 @@ def convert_documents(tool, path, output_path):
     scanned_documents = 0
     text_documents = 0
     for document in documents:
-        # compute text ratio in document - if text percentage is lower than 10%: skip document
-        text_ratio = get_text_percentage(document)
-        if text_ratio > 10:
-            try:
-                with open(output_path + document.split('\\')[-1][:-3] + "txt", "w", encoding="utf-8") as f:
+        # do not convert if document has already been converted
+        if not os.path.exists(output_path + document.split('\\')[-1][:-3] + "txt"):
+            # compute text ratio in document - if text percentage is lower than 10%: skip document
+            text_ratio = get_text_percentage(document)
+            # if text_ratio < 10% consider it as a scanned pdf
+            if text_ratio > 10:
+                try:
+                    # get text and number of words
                     text, n_words = pdf2txt(document, tool)
-                    f.write(text)
-                text_documents += 1
-            except Exception:
-                print(f"Unable to process document {document}")
-                continue
-        else:
-            scanned_documents += 1
+                    # detect language of document and create folder to store if necessary
+                    language = detect_language(text)
+                    if not os.path.exists(f"{output_path}{language}/"):
+                        os.mkdir(f"{output_path}{language}/")
+                    with open(f"{output_path}{language}/" + document.split('\\')[-1][:-3] + "txt", "w", encoding="utf-8") as f:
+                        f.write(text)
+                    text_documents += 1
+                except Exception:
+                    print(f"Unable to process document {document}")
+                    if not os.path.exists(path + "error/"):
+                        os.mkdir(path + "error/")
+                    shutil.move(document, path + "error/" + document.split('\\')[-1][:-3] + "pdf")
+                    continue
+            else:
+                scanned_documents += 1
+                # sent to error folder if the document was not converted to text
+                if not os.path.exists(path + "img/"):
+                    os.mkdir(path + "img/")
+                shutil.move(document, path + "img/" + document.split('\\')[-1][:-3] + "pdf")
     print(f"{text_documents} documents converted ---- {scanned_documents} scanned documents.")
 
 
@@ -96,7 +119,7 @@ def convert_documents(tool, path, output_path):
 
 
 # define data_path
-data_path = "D:/GitHub/PatientReportedOutcome/data_sample/pdf_img/"
+data_path = "D:/GitHub/Data/PRO/"
 # available tools for text extraction from pdf files
 options = {1: "PyPDF2", 2: "pdfminer", 3: "fitz"}
 # convert documents located in data_path and store them in output_path
